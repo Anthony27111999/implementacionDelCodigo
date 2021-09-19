@@ -13,6 +13,7 @@ public class AlasPum {
         System.out.println(proxyAUtilizar.LlamadaURL(1));
         proxyAUtilizar.LlamadaURL(1);
         proxyAUtilizar.LlamadaURL(1);
+        proxyAUtilizar.LlamadaURL(1);
 
     }
 }
